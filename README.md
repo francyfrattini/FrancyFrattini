@@ -86,6 +86,7 @@ Amo lavorare in team e, a parer mio, il rapporto tra le persone è il modo migli
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancyFrattini&show_icons=true&theme=radical)
 
 
 <!--
