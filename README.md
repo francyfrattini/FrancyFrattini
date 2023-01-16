@@ -71,12 +71,12 @@ Mi piace sviluppare websites, interfacce e applicazioni user-friendly.
 l mio background in design e studi grafici, mi permette di sfruttare queste mie competenze pregresse ed integrarle con la programmazione. 
 
 ```diff
-@@                                       Obiettivo: creare la "Boutique del Website"                                        @@
+@@                                       Obiettivo: creare la "Boutique del Website"                                     @@
 ``` 
 
 
 ```diff
-#                                Il mio mantra è: "Guarda le cose comuni con occhi differenti".
+#                               Il mio mantra è: "Guarda le cose comuni con occhi differenti".
 ```
 
 Sono una ragazza pratica e dinamica, odio la monotonia e amo gli stimoli. Non sopporto i pregiudizi. 
