@@ -1,6 +1,9 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/107913694/212719648-7246a63b-e193-4832-9a89-c8d4f052014f.png"> </p>
 
+<p align="center"> Connect with me: </p>
+<p align="center"> <a href="https://www.linkedin.com/in/yushi95/](https://www.linkedin.com/in/francesca-frattini-092/"> <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="30px"></a> </p>
+
 I'm a designer who thinks it's never too late to change and turn your passion into a job. 
 For this reason, in 2022 I decided to become a **WEB DEVELOPER**. 
 
@@ -29,8 +32,9 @@ Il mio mantra è: **_"Guarda le cose comuni con occhi differenti"_**.
 Sono una ragazza pratica e dinamica, odio la monotonia e amo gli stimoli. Non sopporto i pregiudizi. 
 Amo lavorare in team e, a parer mio, il rapporto tra le persone è il modo migliore per crescere: ognuno di noi può imparare l'uno dall'altro e può insegnare a sua volta.
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/francyfrattini)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/francyfrattini)
 
 
 <!--
