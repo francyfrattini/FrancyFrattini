@@ -5,12 +5,51 @@
 <p align="center"> <a href="https://www.linkedin.com/in/yushi95/](https://www.linkedin.com/in/francesca-frattini-092/"> <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="30px"></a> </p>
 
 <h2 align="center"> Skills & Tools: </h2>
+<h3 align="center"> Web </h3>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+<br>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+</p>
+
+<br>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+</p>
+
+<br>
+
+<h3 align="center"> Graphic </h3>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white">
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+</p>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I'm a designer who thinks it's never too late to change and turn your passion into a job. <br>
 For this reason, in 2022 I decided to become a ```WEB DEVELOPER```
 
 I like developing good-looking and user-friendly websites, interfaces and applications. 
 My background in design and graphic studies allows me to take advantage of my previous skills and integrate them with programming. 
+
+<br>
 
 ```diff
 @@                                            Target: to create the "Website Boutique"                                           @@
