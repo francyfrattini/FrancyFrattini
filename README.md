@@ -1,4 +1,7 @@
+
 ### Hi there 👋
+
+https://www.linkedin.com/in/francesca-frattini-092/
 
 <!--
 **francyfrattini/FrancyFrattini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
