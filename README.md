@@ -61,7 +61,7 @@ My background in design and graphic studies allows me to take advantage of my pr
 #                                  My mantra is: "Look at usual things with unusual eyes"
 ```
 
-I am a practical and dynamic girl, I hate monotony and I love stimuli. I can’t stand prejudices. 
+I am a practical and dynamic girl, I hate monotony and I love stimuli. I can’t stand prejudices.
 I love working in teams and, in my opinion, the relationship between people is the best way to grow: each of us can learn from each other and can teach in turn.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
