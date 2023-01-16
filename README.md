@@ -70,7 +70,7 @@ Sono una designer che pensa che non sia mai troppo tardi per cambiare e trasform
 Per questo, nel 2022 ho deciso di diventare una ```WEB DEVELOPER```
 
 Mi piace sviluppare websites, interfacce e applicazioni user-friendly.
-l mio background in design e studi grafici, mi permette di sfruttare queste mie competenze pregresse ed integrarle con la programmazione. 
+Il mio background in design e studi grafici, mi permette di sfruttare queste mie competenze pregresse ed integrarle con la programmazione. 
 
 ```diff
 @@                                       Obiettivo: creare la "Boutique del Website"                                     @@
