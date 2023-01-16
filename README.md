@@ -52,11 +52,11 @@ My background in design and graphic studies allows me to take advantage of my pr
 <br>
 
 ```diff
-@@                                            Target: to create the "Website Boutique"                                           @@
+@@                                        Target: to create the "Website Boutique"                                       @@
 ``` 
 
 ```diff
-#                                       My mantra is: "Look at usual things with unusual eyes".
+#                                  My mantra is: "Look at usual things with unusual eyes"
 ```
 
 I am a practical and dynamic girl, I hate monotony and I love stimuli. I can’t stand prejudices. 
@@ -71,12 +71,12 @@ Mi piace sviluppare websites, interfacce e applicazioni user-friendly.
 l mio background in design e studi grafici, mi permette di sfruttare queste mie competenze pregresse ed integrarle con la programmazione. 
 
 ```diff
-@@                                          Obiettivo: creare la "Boutique del Website"                                          @@
+@@                                       Obiettivo: creare la "Boutique del Website"                                        @@
 ``` 
 
 
 ```diff
-#                                 Il mio mantra è: "Guarda le cose comuni con occhi differenti".
+#                                Il mio mantra è: "Guarda le cose comuni con occhi differenti".
 ```
 
 Sono una ragazza pratica e dinamica, odio la monotonia e amo gli stimoli. Non sopporto i pregiudizi. 
