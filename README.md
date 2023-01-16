@@ -1,5 +1,5 @@
 
-<p align="center"> "![github_FF](https://user-images.githubusercontent.com/107913694/212719648-7246a63b-e193-4832-9a89-c8d4f052014f.png) </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/107913694/212719648-7246a63b-e193-4832-9a89-c8d4f052014f.png"> </p>
 
 I'm a designer who thinks it's never too late to change and turn your passion into a job. 
 For this reason, in 2022 I decided to become a **WEB DEVELOPER**. 
