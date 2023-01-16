@@ -1,8 +1,8 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/107913694/212719648-7246a63b-e193-4832-9a89-c8d4f052014f.png"> </p>
 
-<h2 align="center"> Connect with me: </h2>
-<p align="center"> <a href="https://www.linkedin.com/in/yushi95/](https://www.linkedin.com/in/francesca-frattini-092/"> <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="30px"></a> </p>
+<h2 align="center"> Connect with me:  
+<a href="https://www.linkedin.com/in/francesca-frattini-092/"> <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="30px" align="center"></a></h2>
 
 <h2 align="center"> Skills & Tools: </h2>
 <h3 align="center"> Web </h3>
