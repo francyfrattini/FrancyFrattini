@@ -86,9 +86,7 @@ Amo lavorare in team e, a parer mio, il rapporto tra le persone è il modo migli
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Francy's github stats](https://github-readme-stats.vercel.app/api?username=francyfrattini)](https://github.com/francyfrattini)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francyfrattini&layout=compact)](https://github.com/francyfrattini)
 
 <!--
 **francyfrattini/FrancyFrattini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
